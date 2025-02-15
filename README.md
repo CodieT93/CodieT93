@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CodieT93
 - 👀 I’m interested in ...Full Stack Web Development
-- 🌱 I’m currently learning ...IT
-- 💞️ I’m looking to collaborate on ...HTML, CSS and Javascript Files
 - 📫 How to reach me ... Via Github
 - 😄 Pronouns: ... He/Him
 
